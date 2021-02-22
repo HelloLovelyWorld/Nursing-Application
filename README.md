@@ -2,7 +2,16 @@
 ASP.NET web application to help keep track of a nursing mother's  breastfeeding and pumping journey.
 
 
-## Wireframe Sketches
+## Concept
+The concept of this application is to make it easier for breastfeeding and pumping mother's to keep track of their nursing and pumping sessions and breastmilk storage. It also will allow mother's to log diaper changes and sleep schedules.
+
+
+## Database Diagram
+
+![Entity Relationship Diagram](https://github.com/HelloLovelyWorld/Nursing-Application/blob/main/Project%20ERD.jpg)
+
+
+## Wireframe Sketches (DRAFT)
 
 ![Login Screen](https://github.com/HelloLovelyWorld/Nursing-Application/blob/main/Screen1.JPG)
 
