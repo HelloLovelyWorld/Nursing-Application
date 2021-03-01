@@ -27,4 +27,4 @@ The concept of this application is to make it easier for breastfeeding and pumpi
 
 ![Stats Screen](https://github.com/HelloLovelyWorld/Nursing-Application/blob/main/Screen7.JPG)
 
-[Link to the requirements file!](https://github.com/HelloLovelyWorld/Nursing-Application/blob/main/Requirements_Specs.md)
+[Click here to see the "requirements_specs.md" file!](https://github.com/HelloLovelyWorld/Nursing-Application/blob/main/Requirements_Specs.md)
