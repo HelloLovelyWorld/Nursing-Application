@@ -26,7 +26,7 @@
 ## Requirements (List)
 
 | Requirement ID | Requirement Description | Test Method | 
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | 1 | The system shall request the number of babies from the user. | Test |
 | 1.1.1 | The system shall request permission to use baby's name. | Test |
 | 1.1.2 The system shall obtain baby's birthdate and gender. | Test |
