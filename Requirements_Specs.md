@@ -29,7 +29,7 @@
 | --- | --- | --- |
 | 1 | The system shall request the number of babies from the user. | Test |
 | 1.1.1 | The system shall request permission to use baby's name. | Test |
-| 1.1.2 The system shall obtain baby's birthdate and gender. | Test |
+| 1.1.2 | The system shall obtain baby's birthdate and gender. | Test |
 | 1.1.3 | The system shall be able to request permission to use a picture of baby on the web page. | Test
 | 1.2 | The system shall be to choose between the colors pink and blue based off of the gender of the child(ren). | Test |
 | 2 | The system shall be able to log the amount of milk based off of how the user would like things measured (ounces or mililiters). | Inspection |
